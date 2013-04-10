@@ -1,3 +1,8 @@
 Scriptcha
+=========
 
 Scriptcha is a utility written to determine which javascript files are being used on each page.
+
+# Goal
+
+The goal of Scriptcha is to provide an easy-to-use solution to determining which files that you actually need on your site. It can be really easy to keep adding and adding script files to your page, and end up not using a handful of them. This leaves you in the situation of having to comb through all the functions you are calling and matching up which files all of the functions live in.
